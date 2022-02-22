@@ -1,0 +1,6 @@
+C:\Users\alexk\RiderProjects\AbstractAssignment\AbstractAssignment\bin\Debug\AbstractAssignment.exe
+C:\Users\alexk\RiderProjects\AbstractAssignment\AbstractAssignment\bin\Debug\AbstractAssignment.pdb
+C:\Users\alexk\RiderProjects\AbstractAssignment\AbstractAssignment\obj\Debug\AbstractAssignment.csproj.AssemblyReference.cache
+C:\Users\alexk\RiderProjects\AbstractAssignment\AbstractAssignment\obj\Debug\AbstractAssignment.csproj.CoreCompileInputs.cache
+C:\Users\alexk\RiderProjects\AbstractAssignment\AbstractAssignment\obj\Debug\AbstractAssignment.exe
+C:\Users\alexk\RiderProjects\AbstractAssignment\AbstractAssignment\obj\Debug\AbstractAssignment.pdb
